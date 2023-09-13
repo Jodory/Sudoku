@@ -4,7 +4,7 @@ Sudoku프로젝트
 
 ![Image 0](/Sudoku/image0.png)
 
-![Image 1](/mnt/data/images/image1.png)
+![Image 1](/image1.png)
 
 ![Image 2](/mnt/data/images/image2.png)
 
